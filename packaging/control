@@ -1,0 +1,9 @@
+Package: local.vhx.sessiontest
+Name: VHX Session Test
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: NSURLSession GET /vhx test app for rootless iOS
+Maintainer: Local
+Author: Local
+Section: Utilities
+Depends: firmware (>= 15.0)
